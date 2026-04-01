@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-clang src/main.cpp -oschnitzel.exe
+clang++ -g src/main.cpp -oschnitzel.exe
